@@ -1,4 +1,4 @@
-#️ BÀI THỰC HÀNH: KỸ NĂNG ĐỒNG BỘ VÀ XỬ LÝ SỰ CỐ MÃ NGUỒN VỚI GIT & GITHUB
+#️**BÀI THỰC HÀNH: KỸ NĂNG ĐỒNG BỘ VÀ XỬ LÝ SỰ CỐ MÃ NGUỒN VỚI GIT & GITHUB**
 
 **Môn học:** CS073  
 **Mục tiêu:** Sinh viên làm quen với quy trình làm việc chuyên nghiệp trên GitHub, thành thạo các kỹ năng giải quyết xung đột (Conflict) và phục hồi dữ liệu khi xảy ra sai sót trong quá trình phát triển nhóm.
@@ -148,7 +148,7 @@ git push -u origin main
 
 ---
 
-## ✅ NGHIỆM THU
+## NGHIỆM THU
 Sau khi hoàn tất, sinh viên giữ nguyên màn hình Terminal với lệnh sau để giảng viên kiểm tra:
 ```bash
 git log --oneline --graph --all
